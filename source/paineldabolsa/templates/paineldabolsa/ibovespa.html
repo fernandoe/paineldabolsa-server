@@ -1,0 +1,35 @@
+{% extends "paineldabolsa/base/base.html" %}
+
+{% block body %}
+
+  <div class="container">
+    <div class="row">
+      <div class="gridster">
+        <ul>
+        {% for papel in IBOVESPA %} 
+            {{ papel.get_mini_painel|safe }} 
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+
+{% endblock body %}
+
+
+{% block css %}
+
+<style>
+  body {
+      font-family: arial, tahoma, verdana, sans-serif;
+      font-size: 12px;
+      background: #EEE;
+  }
+</style>
+
+{% endblock css %}
+
+
+
+
+

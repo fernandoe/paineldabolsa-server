@@ -1,0 +1,241 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+<table cellspacing="0" border="0" id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00" style="width:100%;table-layout:auto;empty-cells:show;">
+	<colgroup>
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+		<col  />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col">Código&nbsp;</th><th scope="col">Ação</th><th scope="col">Tipo</th><th scope="col">Qtde. Teórica</th><th scope="col">Part. (%)</th>
+		</tr>
+	</thead><tbody>
+	<tr>
+		<td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl04_lblCodigo">BRKM5</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl04_lblAcao">BRASKEM</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl04_lblTipo">PNA     N1</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl04_lblQtdeTeorica_Formatada">264.588.096</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl04_lblPart_Formatada">6,422</span>
+                            </td>
+	</tr><tr>
+		<td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl06_lblCodigo">CCXC3</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl06_lblAcao">CCX CARVAO</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl06_lblTipo">ON      NM</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl06_lblQtdeTeorica_Formatada">65.011.621</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl06_lblPart_Formatada">0,090</span>
+                            </td>
+	</tr><tr>
+		<td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl08_lblCodigo">CSNA3</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl08_lblAcao">SID NACIONAL</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl08_lblTipo">ON</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl08_lblQtdeTeorica_Formatada">702.056.615</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl08_lblPart_Formatada">10,286</span>
+                            </td>
+	</tr><tr>
+		<td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl10_lblCodigo">DTEX3</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl10_lblAcao">DURATEX</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl10_lblTipo">ON      NM</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl10_lblQtdeTeorica_Formatada">216.599.904</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl10_lblPart_Formatada">3,247</span>
+                            </td>
+	</tr><tr>
+		<td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl12_lblCodigo">FIBR3</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl12_lblAcao">FIBRIA</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl12_lblTipo">ON      NM</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl12_lblQtdeTeorica_Formatada">222.308.001</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl12_lblPart_Formatada">7,340</span>
+                            </td>
+	</tr><tr>
+		<td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl14_lblCodigo">GGBR3</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl14_lblAcao">GERDAU</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl14_lblTipo">ON      N1</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl14_lblQtdeTeorica_Formatada">100.264.457</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl14_lblPart_Formatada">1,662</span>
+                            </td>
+	</tr><tr>
+		<td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl16_lblCodigo">GGBR4</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl16_lblAcao">GERDAU</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl16_lblTipo">PN      N1</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl16_lblQtdeTeorica_Formatada">869.031.000</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl16_lblPart_Formatada">17,801</span>
+                            </td>
+	</tr><tr>
+		<td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl18_lblCodigo">GOAU4</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl18_lblAcao">GERDAU MET</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl18_lblTipo">PN  ATZ N1</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl18_lblQtdeTeorica_Formatada">268.526.346</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl18_lblPart_Formatada">6,757</span>
+                            </td>
+	</tr><tr>
+		<td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl20_lblCodigo">KLBN11</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl20_lblAcao">KLABIN S/A</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl20_lblTipo">UNT     N2</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl20_lblQtdeTeorica_Formatada">45.262.795</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl20_lblPart_Formatada">3,548</span>
+                            </td>
+	</tr><tr>
+		<td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl22_lblCodigo">KLBN4</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl22_lblAcao">KLABIN S/A</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl22_lblTipo">PN      N2</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl22_lblQtdeTeorica_Formatada">226.313.980</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl22_lblPart_Formatada">3,602</span>
+                            </td>
+	</tr><tr>
+		<td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl24_lblCodigo">MAGG3</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl24_lblAcao">MAGNESITA SA</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl24_lblTipo">ON      NM</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl24_lblQtdeTeorica_Formatada">170.426.589</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl24_lblPart_Formatada">1,114</span>
+                            </td>
+	</tr><tr>
+		<td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl26_lblCodigo">MMXM3</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl26_lblAcao">MMX MINER</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl26_lblTipo">ON      NM</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl26_lblQtdeTeorica_Formatada">65.853.472</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl26_lblPart_Formatada">0,254</span>
+                            </td>
+	</tr><tr>
+		<td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl28_lblCodigo">PMAM3</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl28_lblAcao">PARANAPANEMA</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl28_lblTipo">ON      NM</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl28_lblQtdeTeorica_Formatada">318.862.097</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl28_lblPart_Formatada">1,548</span>
+                            </td>
+	</tr><tr>
+		<td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl30_lblCodigo">SUZB5</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl30_lblAcao">SUZANO PAPEL</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl30_lblTipo">PNA     N1</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl30_lblQtdeTeorica_Formatada">461.276.773</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl30_lblPart_Formatada">5,236</span>
+                            </td>
+	</tr><tr>
+		<td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl32_lblCodigo">USIM3</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl32_lblAcao">USIMINAS</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl32_lblTipo">ON      N1</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl32_lblQtdeTeorica_Formatada">173.356.454</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl32_lblPart_Formatada">2,277</span>
+                            </td>
+	</tr><tr>
+		<td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl34_lblCodigo">USIM5</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl34_lblAcao">USIMINAS</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl34_lblTipo">PNA ATZ N1</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl34_lblQtdeTeorica_Formatada">481.069.318</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl34_lblPart_Formatada">6,964</span>
+                            </td>
+	</tr><tr>
+		<td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl36_lblCodigo">VALE3</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl36_lblAcao">VALE</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl36_lblTipo">ON      N1</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl36_lblQtdeTeorica_Formatada">215.311.598</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl36_lblPart_Formatada">9,410</span>
+                            </td>
+	</tr><tr>
+		<td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl38_lblCodigo">VALE5</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl38_lblAcao">VALE</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl38_lblTipo">PNA     N1</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl38_lblQtdeTeorica_Formatada">320.410.069</span>
+                            </td><td>
+                                <span id="ctl00_contentPlaceHolderConteudo_grdResumoCarteiraTeorica_ctl00_ctl38_lblPart_Formatada">12,442</span>
+                            </td>
+	</tr>
+	<tr><td style="font-weight:bold;">Quantidade Teórica Total</td><td>&nbsp;</td><td>&nbsp;</td><td style="font-weight:bold;">5.186.529.185</td><td style="font-weight:bold;">100,000</td></tr>
+<tr><td style="font-weight:bold;">Redutor</td><td>&nbsp;</td><td>&nbsp;</td><td style="font-weight:bold;">43.950.743,16968392</td><td style="font-weight:bold;"></td></tr>
+</tbody>
+	
+</table></body></html>

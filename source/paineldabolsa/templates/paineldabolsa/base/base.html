@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <title>Painel da Bolsa</title>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    {% if debug %}
+    <link rel="stylesheet" href="{{STATIC_URL}}bootstrap.min.css">
+    <link rel="stylesheet" href="{{STATIC_URL}}bootstrap-theme.min.css">
+    <script src="{{STATIC_URL}}jquery-1.11.0.min.js"></script>
+    <script src="{{STATIC_URL}}bootstrap.min.js"></script>
+    {% else %}
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    {% endif %}
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="{{STATIC_URL}}jquery.gridster.min.js" type="text/javascript" charset="utf-8"></script>
+    <link rel="stylesheet" type="text/css" href="{{STATIC_URL}}jquery.gridster.min.css">
+    <link rel="stylesheet" type="text/css" href="{{STATIC_URL}}painel.css">
+
+    <script src="{{STATIC_URL}}painel.js" type="text/javascript" charset="utf-8"></script>
+
+{% block css %}{% endblock css %}
+{% block google_analytics %}{% endblock google_analytics %}
+
+</head>
+<body>
+
+{% block body %}{% endblock body %}
+
+</body>
+</html>

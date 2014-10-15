@@ -1,0 +1,38 @@
+<div class="navbar navbar-inverse " role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">Painel da Bolsa{% if debug %} ( DEBUG ){%endif%}</a>
+    </div>
+
+    <div class="nav navbar-nav navbar-right">
+      <ul class="nav navbar-nav navbar-right">
+        <li><p class="navbar-text">Atualizado: {{DATA}} - {{HORA}}</p></li>
+
+{% comment %}
+<!--         <li class="active"><a href="#">Contato</a></li> -->
+{% endcomment %}
+      </ul>
+
+{% comment %}
+        <ul class="nav navbar-nav navbar-right">
+            <li class="active"><a href="#">Contato</a></li>
+            {% if user.is_authenticated %}
+                <li><p class="navbar-text">{{ user }}</p></li>
+                <li><a href="">Sair</a></li>
+            {% else %}
+                <li><a href="">Registrar</a></li>
+                <li><a href="">Entrar</a></li>
+            {% endif %}
+        </ul>
+{% endcomment %}
+
+    </div><!--/.nav-collapse -->
+
+  </div>
+</div>

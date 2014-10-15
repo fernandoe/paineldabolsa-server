@@ -1,0 +1,34 @@
+body {
+    font-family: arial, tahoma, verdana, sans-serif;
+    font-size: 12px;
+    background: #EEE;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.gridster {
+    margin-bottom: 20px;
+}
+
+.gridster ul{
+    background: #BBB;
+}
+
+.gridster li {
+    font-size: 1em;
+    text-align: center;
+    line-height: 100%;
+}
+
+.painel_header {
+    height: 27px;
+    line-height: 40px;
+}
+
+.painel_footer {
+    height: 23px;
+    line-height: 20px;
+}
+

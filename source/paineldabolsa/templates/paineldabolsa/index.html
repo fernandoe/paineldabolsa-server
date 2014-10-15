@@ -1,0 +1,127 @@
+{% extends "paineldabolsa/base/base.html" %}
+{% load tag_revision %}
+
+{% block google_analytics %}
+
+{% if debug %}
+{% else %}
+{% include "paineldabolsa/base/google-analytics.html" %}
+{% endif %}
+
+{% endblock google_analytics %}
+
+
+{% block body %}
+
+{% include "paineldabolsa/base/navbar.html" %}
+
+  <div class="container">
+
+    <div class="breadcrumb" style="border:1px solid silver;">
+      <h5 class="text-center">Índice Bovespa - Ibovespa</h5>
+    </div>
+
+    <div class="row">
+      <div class="gridster">
+        <ul>
+        {% for papel in IBOVESPA %} 
+            {{ papel.get_mini_painel|safe }} 
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <div class="breadcrumb" style="border:1px solid silver;">
+      <h5 class="text-center">Índice do Setor Industrial - INDX</h5>
+    </div>
+
+    <div class="row">
+      <div class="gridster">
+        <ul>
+        {% for papel in INDX %} 
+            {{ papel.get_mini_painel|safe }} 
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <div class="breadcrumb" style="border:1px solid silver;">
+      <h5 class="text-center">Índice de Consumo - ICON</h5>
+    </div>
+
+    <div class="row">
+      <div class="gridster">
+        <ul>
+        {% for papel in ICON %} 
+            {{ papel.get_mini_painel|safe }} 
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <div class="breadcrumb" style="border:1px solid silver;">
+      <h5 class="text-center">Índice Imobiliário - IMOB</h5>
+    </div>
+
+    <div class="row">
+      <div class="gridster">
+        <ul>
+        {% for papel in IMOB %} 
+            {{ papel.get_mini_painel|safe }} 
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <div class="breadcrumb" style="border:1px solid silver;">
+      <h5 class="text-center">Índice Financeiro - IFNC</h5>
+    </div>
+
+    <div class="row">
+      <div class="gridster">
+        <ul>
+        {% for papel in IFNC %} 
+            {{ papel.get_mini_painel|safe }} 
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <div class="breadcrumb" style="border:1px solid silver;">
+      <h5 class="text-center">Índice de Materiais Básicos - IMAT</h5>
+    </div>
+
+    <div class="row">
+      <div class="gridster">
+        <ul>
+        {% for papel in IMAT %} 
+            {{ papel.get_mini_painel|safe }} 
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <div class="breadcrumb" style="border:1px solid silver;">
+      <h5 class="text-center">Índice Utilidade Pública - UTIL</h5>
+    </div>
+
+    <div class="row">
+      <div class="gridster">
+        <ul>
+        {% for papel in UTIL %} 
+            {{ papel.get_mini_painel|safe }} 
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+      <div class="footer">
+        <p class="text-center">Versão: {% revision %}</p>
+      </div>
+
+  </div>
+
+
+{% include "paineldabolsa/modal.html" %}
+
+{% endblock body %}
