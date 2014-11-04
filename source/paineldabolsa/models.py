@@ -46,18 +46,24 @@ class Papel(object):
         return codigo
 
     def get_preco(self):
-        chave = "%s:D:C" % self.codigo
-        key = self.REDIS_SERVER.zrange(chave, -1, -1)
-        preco = self.REDIS_SERVER.get(key[0])
-        return preco
+        try:
+            chave = "%s:D:C" % self.codigo
+            key = self.REDIS_SERVER.zrange(chave, -1, -1)
+            preco = self.REDIS_SERVER.get(key[0])
+            return preco
+        except:
+            return "N/S"
 
     def get_variacao(self):
-        if self.variacao == None:
-            chave = "%s:D:F" % self.codigo
-            key = self.REDIS_SERVER.zrange(chave, -1, -1)
-            variacao = self.REDIS_SERVER.get(key[0])
-            self.variacao = variacao
-        return self.variacao
+        try:
+            if self.variacao == None:
+                chave = "%s:D:F" % self.codigo
+                key = self.REDIS_SERVER.zrange(chave, -1, -1)
+                variacao = self.REDIS_SERVER.get(key[0])
+                self.variacao = variacao
+            return self.variacao
+        except:
+            return 0
 
     def get_mini_painel(self):
         info = self.get_info()
